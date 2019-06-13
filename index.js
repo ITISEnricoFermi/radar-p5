@@ -1,5 +1,7 @@
+import P5 from 'p5'
+
 class Radar {
-  constructor (P5, divId, data) {
+  constructor (divId, data) {
     this.p = new P5(this._sketch, divId)
     this.p.radar = this
 

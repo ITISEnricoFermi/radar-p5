@@ -1,0 +1,22 @@
+{
+  "name": "radar-p5",
+  "version": "1.0.0",
+  "description": "Radar P5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITISEnricoFermi/radar-p5.git"
+  },
+  "author": "Hristo Kamenov <hKamenov123@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITISEnricoFermi/radar-p5/issues"
+  },
+  "homepage": "https://github.com/ITISEnricoFermi/radar-p5#readme",
+  "dependencies": {
+    "p5": "^0.8.0"
+  }
+}
